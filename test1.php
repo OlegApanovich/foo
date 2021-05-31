@@ -1,3 +1,3 @@
 <?php
 
-echo '<h1>I was here too</h1>;
+echo '<h1>I was here too 1</h1>;
