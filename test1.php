@@ -1,6 +1,3 @@
 <?php
 
-echo '<h1>I was here</h1>
-
-
-
+echo '<h1>I was here too</h1>;
