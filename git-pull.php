@@ -1,9 +1,8 @@
 <?php 
 
 echo '<h1> here </h1>';
-$foo = shell_exec('git status -s ');
-$bar = shell_exec('git pull ');
 
-var_dump($foo);
+$bar = shell_exec('git pull 2>&1');
+
 
 var_dump($bar);
